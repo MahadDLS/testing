@@ -1,2 +1,2 @@
 # testing
-testing private releases
+release version 0.1
